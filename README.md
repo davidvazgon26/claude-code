@@ -1,7 +1,5 @@
-# Curso de Claude Code de Platzi
-## Profe
+# Integrando Claude Code  
 
-- Eduardo Alvarez
 
 ## Distribución del carpetas
 
